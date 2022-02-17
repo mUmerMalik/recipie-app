@@ -1,0 +1,4 @@
+export const MEAL_SUCCESS = 'MEAL_SUCCESS';
+export const MEAL_FAIL = 'MEAL_FAIL';
+export const TOGGLE_FAVORITE = 'TOGGLE_FAVORITE';
+export const TOGGLE_FILTERS = 'TOGGLE_FILTERS';
